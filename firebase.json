@@ -1,0 +1,13 @@
+{
+  // If you went through the "Cloud Firestore Security Rules" step.
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  // If you went through the "Storage Security Rules" step.
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "hosting": {
+    "public": "./public"
+  }
+}
